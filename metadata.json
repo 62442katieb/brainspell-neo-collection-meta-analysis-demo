@@ -1,0 +1,18 @@
+{
+    "description": "I'm demoing",
+    "exclusion_criteria": [
+        "children",
+        "diseases",
+        "ROI analysis"
+    ],
+    "inclusion_criteria": [
+        "coordinates in standard space",
+        "listen to music in the scanner"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Music comprehension/production",
+        "Music"
+    ],
+    "unmapped_pmids": []
+}
